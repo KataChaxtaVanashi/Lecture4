@@ -1,0 +1,237 @@
+		@font-face{
+            src: url(../fonts/irubaqidze/bpg-irubaqidze-master/fonts/bpg-irubaqidze-webfont.ttf);
+            font-family: irubaqidze;
+        }
+        @font-face{
+            src: url(../fonts/Lora/static/Lora-SemiBoldItalic.ttf);
+            font-family: LoraSBI;
+        }
+        @font-face{
+            src: url(../fonts/Lora/static/Lora-SemiBold.ttf);
+            font-family: LoraSB;
+        }
+        @font-face{
+            src: url(../fonts/gideon/fonts/GideonRoman-Regular.ttf);
+            font-family: gideon;
+        }
+        .header-color2{
+			color: darkred;
+			background-color: transparent;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+            font-size: 20px;
+		}
+		.transparentlink {
+        transition: color 0.1s;
+        transition: color 0.1s;
+        text-decoration: none
+        }
+        .transparentlink:hover {
+        color: yellowgreen;
+        text-decoration: none
+        }
+        .transparentlink:active {
+        	color: blue;
+        	background-color: transparent;
+        	text-decoration: none;
+        }
+        .transparentlink:link {
+        	color: darkred;
+        	background-color: transparent;
+        	text-decoration: none;
+        }
+        .body30{
+            margin-left: 30px;
+            background-color: floralwhite;
+        }
+        a:visited{
+        	text-decoration: none;
+        	color: skyblue;
+        }
+        ol, ul {
+        	list-style: none;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        .banner{
+            margin-left: 98px;
+            margin-bottom: 120px;
+        }
+        .feature{
+            font-size: 24px;
+            margin-left: 98px;
+        }
+        .logosS{
+            margin-top: 68px;
+            vertical-align: center;
+        }
+        .linee{
+            margin-left: 35px;
+            margin-right: 30px;
+            height: 27px;
+            vertical-align: middle;
+        }
+        .ytb{
+        	padding: 20px;
+        }
+        .ytb1{
+            vertical-align: middle;
+            margin-left: 30px;
+        }
+        .fbb{
+            margin-left: 109px;
+        	padding: 20px;
+        }
+        .fbb1{
+            margin-left: 30px;
+            vertical-align: middle;
+            margin-right: 35px;
+        }
+        .navv{
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+            font-size: 20px;
+        }
+        .photo{
+            display: inline-block;
+            vertical-align: middle;
+            margin: 30px 10px 30px 30px;
+        }
+        .divSZ{
+            width: 980px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .date{
+            width: 56px;
+            height: 56px;
+            background-color: #3D58A6;
+            margin-left: 30px;
+            font-family: Serif;
+            color: #FFFFFF;
+            font-size: 48px;
+            text-align: center;
+        }
+        .month{
+            font-size: 22px;
+            color: #3D58A6;
+            margin-left: 30px;
+            margin-top: 7px;
+            margin-bottom: 22px;
+        }
+        .paragraph{
+            background-color: #F2F2F2;
+            color: ghostwhite;
+            border: 1px solid;
+            width: 570px;
+            height: 225px;
+            display: inline-block;
+            margin-left: 98px;
+            margin-top: 30px;
+        }
+        .paragraph2{
+            background-color: #F2F2F2;
+            color: ghostwhite;
+            border: 1px solid;
+            width: 570px;
+            height: 225px;
+            display: inline-block;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+        .title{
+            font-family: LoraSBI;
+            font-size: 22px;
+            margin:  10px 30px;
+            color: #3D58A6;
+
+        }
+        .icon{
+            height: 117px;
+            width: 100px;
+            display: inline-block;
+            margin-top: 10px;
+            margin-left: 30px;
+        }
+        .teqp{
+        max-width: 355px; 
+        display: inline-block;
+        color: black;
+        font-size: 20px;
+        vertical-align:top;
+        letter-spacing: 0.5px;
+        margin-left: 60px;
+        margin-top: 20px;  
+        font-family: LoraSB;          
+        }
+        .newst{
+            color: black;
+            font-size: 20px;
+            font-family: bold;
+            text-align: left;
+            margin-left: 30px;
+            margin-bottom: 16.5px;
+        }
+        .ambebi{
+            display: inline-block;
+        }
+        .photo1{
+            display: inline-block;
+            width: 270px;
+            height: 210px;
+            margin-left: 30px;
+        }
+        .date1{
+            width: 56px;
+            height: 56px;
+            background-color: #3D58A6;
+            margin-left: 30px;
+            font-family: Serif;
+            color: #FFFFFF;
+            font-size: 48px;
+            text-align: center;
+        }
+        .statia{
+            display: inline-block;
+            font-family: ;
+            font-size: 16px;
+            margin-left: 39px;
+            margin-top: 20px;
+            vertical-align: top;
+            font-family: irubaqidze;
+            max-width: 929px;
+            max-height: 360px;
+            line-height: normal;
+            text-indent: 50px;
+        }
+        .bckrg{
+            border: 1px solid;
+            height: 570px;
+            display: block;
+            color: #E6E6E6; 
+            background-color: #E6E6E6;
+            margin-top: 24px;    
+        }
+        .map{
+            display: inline-block;
+            vertical-align: top;
+            max-width: 870px;
+            margin-top: 49px;
+            margin-left: 55px;
+        }
+        .cntt{
+            color: #3D58A6;
+            font-family: Bold;
+        }
+        .centert{
+            margin-left: 97px;
+            margin-top: 56px;
+            display: inline-block;
+        }
+        .str{
+            font-family: monospace;
+            color: black;
+            letter-spacing: 0.5px;
+        }
